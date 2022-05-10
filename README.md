@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PatheticStudent
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning OOPS
+- 🌱 I’m currently learning OOPS using JAVA
 
 
 <!---
